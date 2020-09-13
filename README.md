@@ -5,11 +5,13 @@ It’s incredibly powerful, and is used by developers worldwide to create chatbo
 
 # Technologies/Tools used 
 
-contextual assistants
-Python Programming
-chatbot development
-rasa
-Chatterbot
+1. Contextual assistants
+
+2. Python Programming
+
+3. Rasa
+
+4. Chatterbot
 
 # Implementation workflow
 
